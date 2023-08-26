@@ -1,7 +1,7 @@
 {
   "name": "newsapi",
   "version": "0.1.0",
-  "homepage": "https://github.com/khushboosharma2003/Newsapp.git",
+  "homepage": "https://khushboosharma2003.github.io/Newsapp",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
