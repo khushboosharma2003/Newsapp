@@ -14,8 +14,8 @@ const App =()=>{
       <Router>
 <Navbar />
         <Routes>
-          <Route exact path="/" element={<News pageSize={12} key ="general " country='in' category='general' />}> </Route>
-          <Route exact path="/business" element={<News pageSize={12} country='in' key ="business " category='business' />}>   </Route>
+          <Route exact path="/" element={<News pageSize={12} key ="general " country='in' category='general' />}></Route>
+          <Route exact path="/business" element={<News pageSize={12} country='in' key ="business " category='business' />}> </Route>
           <Route exact path="/sports" element={<News pageSize={12} country='in' key ="sports" category='sports' />}>   </Route>
           <Route exact path="/entertainment" element={<News pageSize={12} country='in'  key ="entertainment" category='entertainment' />}>   </Route>
           <Route exact path="/health" element={<News pageSize={12} country='in'key ="health" category='health' />}>   </Route>
