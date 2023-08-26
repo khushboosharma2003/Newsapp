@@ -1,7 +1,7 @@
 {
   "name": "newsapi",
   "version": "0.1.0",
-  "homepage": "https://gitlab.com/react_project942734/newsapi.git",
+  "homepage": "https://github.com/khushboosharma2003/Newsapp.git",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
